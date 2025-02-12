@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ernest musila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernest musila" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ernest-musila-5b6367266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernest musila" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
